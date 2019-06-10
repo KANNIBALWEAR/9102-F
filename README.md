@@ -1,7 +1,7 @@
 ![Project Banner](/assets/template_visuals/temp-banner.png)
 
 <a name="intro"></a>
-# KANNIBAL FRAMEWORK - 9102-F
+# 9102 - FRAMEWORK
 Biker's Mobile Operation Center.
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
