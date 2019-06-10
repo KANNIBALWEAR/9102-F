@@ -1,8 +1,8 @@
 ![Project Banner](/assets/template_visuals/temp-banner.png)
 
 <a name="intro"></a>
-# PROJECT NAME - TAGLINE
-Description.
+# KANNIBAL FRAMEWORK - 9102-F
+Biker's Mobile Operation Center.
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
