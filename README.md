@@ -2,7 +2,7 @@
 
 <a name="intro"></a>
 # 9102 - FRAMEWORK
-Biker's Mobile Operation Center.
+Biker's Mobile Operation Center. Shape based on the frame, spreads to the sides and opens the inners of the cargo system.
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
